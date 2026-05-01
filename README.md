@@ -33,7 +33,7 @@
 |------|------|
 | ☁️ Cloud & API | 云厂商免费层、试用额度、学生包 |
 | 💻 Dev & Tools | IDE、CI、监控、数据库托管等 |
-| 🎨 Design & Media | 素材、字体、轻量设计工具 · [Google Stitch CLI Skill](skills/stitch-cli/SKILL.md)（免费额度以官方为准） |
+| 🎨 Design & Media | 素材、字体、轻量设计工具 · [Google Stitch 官方 SDK Skill](skills/stitch-sdk/SKILL.md)（免费额度以官方为准） |
 | 📚 Learn | 课程、文档、开源教材 |
 | 🔒 Security & Privacy | 密码管理、2FA、安全工具中的免费档 |
 | 🎮 Other | 其它长期免费或额度大方的「免费增值」服务 |
