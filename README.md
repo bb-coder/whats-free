@@ -33,12 +33,12 @@
 |------|------|
 | ☁️ Cloud & API | 云厂商免费层、试用额度、学生包 |
 | 💻 Dev & Tools | IDE、CI、监控、数据库托管等 |
-| 🎨 Design & Media | 素材、字体、轻量设计工具 · [Google Stitch 官方 SDK Skill](skills/stitch-sdk/SKILL.md)（免费额度以官方为准） |
+| 🎨 Design & Media | 素材、字体、轻量设计工具 · [Google Stitch 条目](stitch/README.md)（免费说明、示意图、Cursor Skill） |
 | 📚 Learn | 课程、文档、开源教材 |
 | 🔒 Security & Privacy | 密码管理、2FA、安全工具中的免费档 |
 | 🎮 Other | 其它长期免费或额度大方的「免费增值」服务 |
 
-> 具体条目将按 `分类/条目名.md` 或统一表格维护，以仓库内实际结构为准。
+> 每条资源建议一个 **顶级目录**（例如 `stitch/`）：内含 **免费范围说明**（`README.md`）、可选 **示意图**（如 `assets/`）及 **Cursor Skill**（如 `stitch-cli/SKILL.md`）。具体以各目录为准。
 
 ## 贡献指南
 

@@ -1,5 +1,5 @@
 ---
-name: stitch-sdk
+name: stitch-cli
 description: >-
   Generates and iterates Google Stitch UI mockups from natural-language prompts
   using the official @google/stitch-sdk (Node.js), including batch generation
@@ -9,6 +9,8 @@ description: >-
 ---
 
 # Google Stitch 官方 SDK（设计稿生成）
+
+本 Skill 与仓库条目 **免费说明、示意图** 同目录：[stitch/README.md](../README.md)。
 
 使用 **[@google/stitch-sdk](https://www.npmjs.com/package/@google/stitch-sdk)**（官方 npm 包，Apache-2.0）通过 Node.js 调用 Stitch，从文本需求生成界面稿并拿到 HTML / 截图下载链接。可与 [官方 SDK 教程](https://stitch.withgoogle.com/docs/sdk/tutorial/) 对照阅读。
 
