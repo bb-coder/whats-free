@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/whats-free-logo.png" alt="Whats Free 免费指南针 — 真免费与厚道额度的工具与服务清单" width="640">
+</p>
+
 # Whats Free · 免费指南针
 
 **语言 / Languages：** [English（默认）](README.md) · 简体中文（本页）

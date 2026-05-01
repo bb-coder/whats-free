@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/whats-free-logo.png" alt="Whats Free — a community directory of genuinely free tools and generous free tiers" width="640">
+</p>
+
 # Whats Free
 
 **Languages:** English (this file) · [简体中文](README.zh-Hans.md)
