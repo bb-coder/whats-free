@@ -18,8 +18,7 @@
 
 | 路径 | 说明 |
 |------|------|
-| [示意图：SDK 工作流](assets/stitch-workflow.svg) | 从环境到产物的关系示意（非官方图） |
-| [设计主题参考图](assets/demo.png) | 多风格移动端主题 / 组件示意拼图（仓库参考图，非 Google 官方素材） |
+| [工作流示意图（SVG）](assets/stitch-workflow.svg) | 从 `STITCH_API_KEY`、Node、`@google/stitch-sdk` 到 Stitch API、Project、Screen、HTML/截图 URL 的关系示意（社区自制，非 Google 官方图） |
 | [stitch-cli/SKILL.md](stitch-cli/SKILL.md) | **Cursor Agent Skill**：仅用官方 SDK 生成/批量改版/变体等 |
 
 将 `stitch-cli` 目录复制到 `~/.cursor/skills/stitch-cli/`（保持内含 `SKILL.md`）即可在 Cursor 中作为 Skill 使用。
@@ -30,12 +29,6 @@
 - [SDK 教程](https://stitch.withgoogle.com/docs/sdk/tutorial/)  
 - [stitch-sdk npm](https://www.npmjs.com/package/@google/stitch-sdk) · [源码仓库](https://github.com/google-labs-code/stitch-sdk)
 
-## 示意图（工作流）
+## 示意图（SDK 工作流）
 
-![Stitch 官方 SDK 典型工作流](assets/stitch-workflow.svg)
-
-## 参考图（多主题设计拼盘）
-
-下列为条目配套示意：`demo.png`（约 1.2MB）。展示多种 UI 主题与移动端稿风格，可与 Stitch 生成能力对照参考。
-
-![多主题设计参考 demo](assets/demo.png)
+![Stitch official SDK workflow — env, stitch-sdk, API, project, screen, artifact URLs](assets/stitch-workflow.svg)
