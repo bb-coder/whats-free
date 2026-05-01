@@ -1,63 +1,67 @@
-# Whats Free · 免费指南针
+# Whats Free
 
-> 盘点真正免费、或长期留有厚道额度的工具、服务与学习资源，帮大家少踩坑、多薅靠谱的「羊毛」。
+**Languages:** English (this file) · [简体中文](README.zh-Hans.md)
+
+> A community-maintained directory of tools and services that are **actually free**—or that still offer a **fair, usable free tier**—so you waste less time on bait-and-switch “free” offers.
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)  
-`SPDX-License-Identifier: CC-BY-SA-4.0`（见 [LICENSE](LICENSE) 全文）
+`SPDX-License-Identifier: CC-BY-SA-4.0` — full text in [LICENSE](LICENSE).
 
 ---
 
-## Languages / 语言与范围
+## Scope & languages
 
-本仓库 **面向全球**：欢迎用 **任何语言** 撰写或翻译条目（中文、English、日本語、Español、… 皆可）。请优先写清：**官方链接**、**免费范围**、**限制条件**（绑卡、地域、教育认证等），便于不同语言的读者核对。
+This repo is **global by design**. Contributions are welcome in **any language** (English, 中文, 日本語, Español, …). For each listing, spell out clearly:
 
-- 贡献时可在文档标题或 front matter 中标注语言代码（例如 `en`、`zh-Hans`），便于日后整理分目录。  
-- **译文与摘要仅供参考**；若与服务商现行条款不一致，**以官方原文为准**。完整法律说明见 [DISCLAIMER.md](DISCLAIMER.md)。
+- **Official docs / pricing links**  
+- **What “free” actually covers** (limits, caps, renewals)  
+- **Caveats** (credit card required, region locks, edu-only, etc.)
 
----
-
-## 这个项目是做什么的？
-
-互联网上「免费」二字经常被滥用：有的限时、有的要绑卡、有的偷偷降级。  
-**Whats Free** 做三件事：
-
-1. **分类整理** — 按场景（开发、设计、学习、影音、云资源等）列出值得收藏的真免费项。  
-2. **写明条件** — 是否需要信用卡、是否教育认证、额度/期限大概怎样，避免浪费你的时间。  
-3. **持续维护** — 欢迎 PR 与 Issue：新增、纠错、标注「已变脸」的服务。
-
-这不是爬虫商城，也不卖课；只是一份 **社区共建清单**，方便你我他快速检索。
-
-## 目录（将逐步充实）
-
-| 分类 | 说明 |
-|------|------|
-| ☁️ Cloud & API | 云厂商免费层、试用额度、学生包 |
-| 💻 Dev & Tools | IDE、CI、监控、数据库托管等 |
-| 🎨 Design & Media | 素材、字体、轻量设计工具 · [Google Stitch 条目](stitch/README.md)（免费说明、示意图、Cursor Skill） |
-| 📚 Learn | 课程、文档、开源教材 |
-| 🔒 Security & Privacy | 密码管理、2FA、安全工具中的免费档 |
-| 🎮 Other | 其它长期免费或额度大方的「免费增值」服务 |
-
-> 每条资源建议一个 **顶级目录**（例如 `stitch/`）：内含 **免费范围说明**（`README.md`）、可选 **示意图**（如 `assets/`）及 **Cursor Skill**（如 `stitch-cli/SKILL.md`）。具体以各目录为准。
-
-## 贡献指南
-
-- **新增条目**：请尽量附上官方文档链接、免费范围说明、最后确认日期（可注明时区）。  
-- **纠错 / 下架**：如果某服务改条款或完全收费，欢迎直接提 Issue 或 PR 标注。  
-- **中立表述**：避免夸张宣传；若含返利/推广链接请明示。  
-- **多语言**：欢迎直接提交非中文内容；若翻译现有条目，请保留指向原文档的路径以免分叉难以维护。
-
-## 许可协议（开源 / 内容授权）
-
-- **原创文字、列表编排、说明文档**（在可适用版权法的范围内）以 **Creative Commons Attribution-ShareAlike 4.0 International（CC BY-SA 4.0）** 授权。  
-- **完整法律条文**见仓库根目录 [LICENSE](LICENSE)（与 Creative Commons 官方 `legalcode` 一致，请勿随意改写正文）。  
-- 简要含义：**可分享、可演绎**；**需署名**；衍生作品须以 **相同方式**（BY-SA）共享。详情以 [CC BY-SA 4.0 概要](https://creativecommons.org/licenses/by-sa/4.0/) 与全文为准。  
-- 第三方的商标、官网文案与专有内容仍归各权利人所有；收录行为 **不代表** 本仓库取得相关权利，详见 [DISCLAIMER.md](DISCLAIMER.md)。
-
-## 免责声明（摘要）
-
-信息 **仅供参考**，**不提供任何形式的担保**；不构成法律/财务/投资建议；各服务 **现行条款与官网上公布的规则优先**。完整双语声明见 **[DISCLAIMER.md](DISCLAIMER.md)**。
+Prefer tagging docs with a language code where helpful (`en`, `zh-Hans`, …).  
+Translations and summaries here are for convenience only—**the vendor’s current terms win**. See [DISCLAIMER.md](DISCLAIMER.md).
 
 ---
 
-**Star 一下**，方便以后回来薅——也欢迎把你知道的「真免费」丢进 PR，一起更新清单 ✨
+## What this project does
+
+The word “free” gets abused a lot: time-limited trials, surprise paywalls, plan downgrades you never agreed to. **Whats Free** tries to do three things:
+
+1. **Curate** — Group picks by use case (dev, design, learning, media, cloud, …).  
+2. **Be explicit** — Say when a card, school email, or region check is required, and what the quota roughly looks like.  
+3. **Stay current** — PRs and issues to add entries, fix mistakes, or flag offers that changed.
+
+No scraper marketplace, no paid courses—just a **shared checklist** you can skim or ship in your own workflows.
+
+## Catalog (growing)
+
+| Track | What we list |
+|------|----------------|
+| ☁️ Cloud & API | Free tiers, trial credits, student bundles |
+| 💻 Dev & Tools | IDEs, CI, observability, managed datastores |
+| 🎨 Design & Media | Assets, type, lightweight design tools · [Google Stitch](stitch/README.md) (free-tier notes, diagrams, Cursor skill) |
+| 📚 Learn | Courses, docs, open curricula |
+| 🔒 Security & Privacy | Password managers, 2FA, security tools with a real free tier |
+| 🎮 Other | Durable free plans or unusually generous freemium |
+
+**Layout convention:** one **top-level folder per product** (e.g. `stitch/`): a `README` explaining the free angle, optional `assets/`, and optional Cursor skills under something like `stitch-cli/SKILL.md`. Each folder is the source of truth for that entry.
+
+## Contributing
+
+- **New entries:** Link official docs, describe what the free tier includes, and note **when you last checked** (timezone optional but helpful).  
+- **Fixes / removals:** If a vendor tightens or kills a free tier, open an issue or PR—we’d rather be wrong briefly than stale forever.  
+- **Tone:** Factual beats hype; if you use affiliate or referral links, **disclose them** next to the link.  
+- **Translations:** Non-English submissions welcome; when translating an existing doc, keep a clear pointer to the canonical path so we don’t fork silently.
+
+## License
+
+Original prose, list structure, and explanatory text in this repo (where copyright applies) is licensed under **Creative Commons Attribution-ShareAlike 4.0** ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)): share and adapt with **attribution** and **share-alike** on derivatives. The full legal text is in [LICENSE](LICENSE) (verbatim CC legalcode—please don’t edit the text).
+
+Third-party trademarks, marketing copy, and proprietary assets stay with their owners; listing them here **does not** mean this project owns those rights. Details in [DISCLAIMER.md](DISCLAIMER.md).
+
+## Disclaimer (short)
+
+Information is **for orientation only**; **no warranties**; not legal, tax, or investment advice. **Each provider’s live terms and website rule the day.** Full statement (EN + 简体中文) in [DISCLAIMER.md](DISCLAIMER.md).
+
+---
+
+If this repo saves you a dead-end signup, consider **starring** it—and send a PR when you spot another **real** free tier worth sharing.
